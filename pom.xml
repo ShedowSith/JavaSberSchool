@@ -10,11 +10,22 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>homework_exceptions</module>
+        <module>reflection_proxy_annotations</module>
+        <module>homework_reflection_proxy_annotation</module>
     </modules>
 
     <properties>
         <maven.compiler.source>15</maven.compiler.source>
         <maven.compiler.target>15</maven.compiler.target>
     </properties>
-
+    <dependencyManagement>
+        <dependencies>
+            <dependency>
+                <groupId>junit</groupId>
+                <artifactId>junit</artifactId>
+                <version>4.13</version>
+                <scope>test</scope>
+            </dependency>
+        </dependencies>
+    </dependencyManagement>
 </project>
