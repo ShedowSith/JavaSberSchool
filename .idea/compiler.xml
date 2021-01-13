@@ -7,8 +7,12 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="homework_exceptions" />
-        <module name="reflection_proxy_annotations" />
         <module name="homework_reflection_proxy_annotation" />
+        <module name="print-plugin1" />
+        <module name="print-plugin2" />
+        <module name="homework_classloaders" />
+        <module name="reflection_proxy_annotations" />
+        <module name="plugin-api" />
       </profile>
     </annotationProcessing>
   </component>

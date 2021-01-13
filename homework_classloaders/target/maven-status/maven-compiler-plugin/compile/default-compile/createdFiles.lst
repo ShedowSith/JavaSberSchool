@@ -1,0 +1,5 @@
+TestReadFile.class
+ru\sbt\brouser\TestStart.class
+ru\sbt\brouser\PluginManager.class
+ru\sbt\EncryptedClassLoader.class
+ru\sbt\RunLoader.class

@@ -12,6 +12,10 @@
         <module>homework_exceptions</module>
         <module>reflection_proxy_annotations</module>
         <module>homework_reflection_proxy_annotation</module>
+        <module>homework_classloaders</module>
+        <module>plugin-api</module>
+        <module>print-plugin1</module>
+        <module>print-plugin2</module>
     </modules>
 
     <properties>
