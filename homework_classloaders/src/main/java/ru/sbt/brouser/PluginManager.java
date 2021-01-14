@@ -21,7 +21,7 @@ public class PluginManager {
             if(jar.getName().equals(pluginName+".jar")){
                 try {
                     URL jarURL = jar.toURI().toURL();
-                    URLClassLoader classLoader = new URLClassLoader(new URL[]{jarURL});
+                    PluginLoader classLoader = new PluginLoader(new URL[]{jarURL}, ClassLoader.getSystemClassLoader());
                     Class<?> pluginClass = classLoader.loadClass(pluginClassName);
                     plugin = (Plugin) pluginClass.newInstance();
 

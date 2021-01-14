@@ -25,5 +25,10 @@
             <artifactId>plugin-api</artifactId>
             <version>1.0-SNAPSHOT</version>
         </dependency>
+        <dependency>
+            <groupId>ru.rahimyanov_aleks</groupId>
+            <artifactId>print-plugin1</artifactId>
+            <version>1.0-SNAPSHOT</version>
+        </dependency>
     </dependencies>
 </project>
