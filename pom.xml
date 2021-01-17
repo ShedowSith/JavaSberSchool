@@ -16,6 +16,7 @@
         <module>plugin-api</module>
         <module>print-plugin1</module>
         <module>print-plugin2</module>
+        <module>homework_cache_proxy</module>
     </modules>
 
     <properties>

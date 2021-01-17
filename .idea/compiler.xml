@@ -13,6 +13,7 @@
         <module name="homework_classloaders" />
         <module name="reflection_proxy_annotations" />
         <module name="plugin-api" />
+        <module name="homework_cache_proxy" />
       </profile>
     </annotationProcessing>
   </component>
