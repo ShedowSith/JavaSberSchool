@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="homework_exceptions" />
         <module name="homework_reflection_proxy_annotation" />
+        <module name="homework_lambda_and_stream" />
         <module name="print-plugin1" />
         <module name="print-plugin2" />
         <module name="homework_classloaders" />

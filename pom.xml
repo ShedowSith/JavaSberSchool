@@ -17,6 +17,7 @@
         <module>print-plugin1</module>
         <module>print-plugin2</module>
         <module>homework_cache_proxy</module>
+        <module>homework_lambda_and_stream</module>
     </modules>
 
     <properties>
