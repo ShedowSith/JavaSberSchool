@@ -3,14 +3,12 @@ package ru.sbt.stream;
 import org.junit.Test;
 import ru.sbt.person.Person;
 
-import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 import java.util.Map;
-import java.util.stream.Stream;
+
 
 public class StreamsTest {
-
     @Test
     public void testStreams(){
         List<Person> someCollection = Arrays.asList(
