@@ -11,6 +11,7 @@
         <module name="homework_reflection_proxy_annotation" />
         <module name="homework_lambda_and_stream" />
         <module name="homework_multithreading_part2" />
+        <module name="homework_java_memory_model" />
         <module name="print-plugin1" />
         <module name="print-plugin2" />
         <module name="homework_classloaders" />

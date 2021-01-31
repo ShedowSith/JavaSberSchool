@@ -19,6 +19,5 @@ public class MainFixedTreadPool {
             });
         }
         fixedThreadPool.start();
-
     }
 }
