@@ -6,18 +6,20 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="homework_exceptions" />
         <module name="homework_multithreading_part1" />
-        <module name="homework_reflection_proxy_annotation" />
         <module name="homework_lambda_and_stream" />
         <module name="homework_multithreading_part2" />
         <module name="homework_java_memory_model" />
-        <module name="print-plugin1" />
-        <module name="print-plugin2" />
+        <module name="homework_jvm_git_gc" />
         <module name="homework_classloaders" />
         <module name="reflection_proxy_annotations" />
-        <module name="plugin-api" />
         <module name="homework_cache_proxy" />
+        <module name="homework_concurrent_cache" />
+        <module name="homework_exceptions" />
+        <module name="homework_reflection_proxy_annotation" />
+        <module name="print-plugin1" />
+        <module name="print-plugin2" />
+        <module name="plugin-api" />
       </profile>
     </annotationProcessing>
   </component>

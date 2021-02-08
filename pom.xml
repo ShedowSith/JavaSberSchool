@@ -21,6 +21,8 @@
         <module>homework_multithreading_part1</module>
         <module>homework_multithreading_part2</module>
         <module>homework_java_memory_model</module>
+        <module>homework_jvm_git_gc</module>
+        <module>homework_concurrent_cache</module>
     </modules>
 
     <properties>
