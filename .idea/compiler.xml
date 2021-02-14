@@ -9,6 +9,7 @@
         <module name="homework_multithreading_part1" />
         <module name="homework_lambda_and_stream" />
         <module name="homework_multithreading_part2" />
+        <module name="homework_spring" />
         <module name="homework_java_memory_model" />
         <module name="homework_jvm_git_gc" />
         <module name="homework_classloaders" />
