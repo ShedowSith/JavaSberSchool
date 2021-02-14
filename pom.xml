@@ -24,6 +24,7 @@
         <module>homework_jvm_git_gc</module>
         <module>homework_concurrent_cache</module>
         <module>homework_gof</module>
+        <module>homework_jdbc</module>
     </modules>
 
     <properties>

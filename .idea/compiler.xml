@@ -20,6 +20,7 @@
         <module name="print-plugin1" />
         <module name="print-plugin2" />
         <module name="plugin-api" />
+        <module name="homework_jdbc" />
         <module name="homework_gof" />
       </profile>
     </annotationProcessing>
