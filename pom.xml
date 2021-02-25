@@ -26,6 +26,7 @@
         <module>homework_gof</module>
         <module>homework_jdbc</module>
         <module>homework_spring</module>
+        <module>homework_jdbc_spring</module>
     </modules>
 
     <properties>

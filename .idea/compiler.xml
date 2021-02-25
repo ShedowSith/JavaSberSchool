@@ -23,7 +23,30 @@
         <module name="plugin-api" />
         <module name="homework_jdbc" />
         <module name="homework_gof" />
+        <module name="homework_jdbc_spring" />
       </profile>
     </annotationProcessing>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="homework_cache_proxy" options="" />
+      <module name="homework_classloaders" options="" />
+      <module name="homework_concurrent_cache" options="" />
+      <module name="homework_exceptions" options="" />
+      <module name="homework_gof" options="" />
+      <module name="homework_java_memory_model" options="" />
+      <module name="homework_jdbc" options="" />
+      <module name="homework_jdbc_spring" options="" />
+      <module name="homework_jvm_git_gc" options="" />
+      <module name="homework_lambda_and_stream" options="" />
+      <module name="homework_multithreading_part1" options="" />
+      <module name="homework_multithreading_part2" options="" />
+      <module name="homework_reflection_proxy_annotation" options="" />
+      <module name="homework_spring" options="" />
+      <module name="plugin-api" options="" />
+      <module name="print-plugin1" options="" />
+      <module name="print-plugin2" options="" />
+      <module name="reflection_proxy_annotations" options="" />
+    </option>
   </component>
 </project>
