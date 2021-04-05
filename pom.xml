@@ -27,8 +27,15 @@
         <module>homework_jdbc</module>
         <module>homework_spring</module>
         <module>homework_jdbc_spring</module>
+        <module>homework_spring_web_mvc</module>
+        <module>homework_orm_spring_hibernate</module>
     </modules>
-
+    <parent>
+        <groupId>org.springframework.boot</groupId>
+        <artifactId>spring-boot-starter-parent</artifactId>
+        <version>2.4.2</version>
+        <relativePath/>
+    </parent>
     <properties>
         <maven.compiler.source>15</maven.compiler.source>
         <maven.compiler.target>15</maven.compiler.target>

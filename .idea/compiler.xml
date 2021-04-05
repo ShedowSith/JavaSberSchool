@@ -2,19 +2,23 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
       <profile name="Maven default annotation processors profile" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="homework_multithreading_part1" />
+        <module name="homework_spring_web_mvc" />
         <module name="homework_lambda_and_stream" />
         <module name="homework_multithreading_part2" />
         <module name="homework_spring" />
         <module name="homework_java_memory_model" />
         <module name="homework_jvm_git_gc" />
+        <module name="spring_web_mvc" />
         <module name="homework_classloaders" />
         <module name="reflection_proxy_annotations" />
         <module name="homework_cache_proxy" />
+        <module name="homework_orm_spring_hibernate" />
         <module name="homework_concurrent_cache" />
         <module name="homework_exceptions" />
         <module name="homework_reflection_proxy_annotation" />
@@ -26,27 +30,30 @@
         <module name="homework_jdbc_spring" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel target="15" />
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
-      <module name="homework_cache_proxy" options="" />
-      <module name="homework_classloaders" options="" />
-      <module name="homework_concurrent_cache" options="" />
-      <module name="homework_exceptions" options="" />
-      <module name="homework_gof" options="" />
-      <module name="homework_java_memory_model" options="" />
-      <module name="homework_jdbc" options="" />
-      <module name="homework_jdbc_spring" options="" />
-      <module name="homework_jvm_git_gc" options="" />
-      <module name="homework_lambda_and_stream" options="" />
-      <module name="homework_multithreading_part1" options="" />
-      <module name="homework_multithreading_part2" options="" />
-      <module name="homework_reflection_proxy_annotation" options="" />
-      <module name="homework_spring" options="" />
-      <module name="plugin-api" options="" />
-      <module name="print-plugin1" options="" />
-      <module name="print-plugin2" options="" />
-      <module name="reflection_proxy_annotations" options="" />
+      <module name="homework_cache_proxy" options="-parameters" />
+      <module name="homework_classloaders" options="-parameters" />
+      <module name="homework_concurrent_cache" options="-parameters" />
+      <module name="homework_exceptions" options="-parameters" />
+      <module name="homework_gof" options="-parameters" />
+      <module name="homework_java_memory_model" options="-parameters" />
+      <module name="homework_jdbc" options="-parameters" />
+      <module name="homework_jdbc_spring" options="-parameters" />
+      <module name="homework_jvm_git_gc" options="-parameters" />
+      <module name="homework_lambda_and_stream" options="-parameters" />
+      <module name="homework_multithreading_part1" options="-parameters" />
+      <module name="homework_multithreading_part2" options="-parameters" />
+      <module name="homework_orm_spring_hibernate" options="-parameters" />
+      <module name="homework_reflection_proxy_annotation" options="-parameters" />
+      <module name="homework_spring" options="-parameters" />
+      <module name="plugin-api" options="-parameters" />
+      <module name="print-plugin1" options="-parameters" />
+      <module name="print-plugin2" options="-parameters" />
+      <module name="reflection_proxy_annotations" options="-parameters" />
+      <module name="spring_web_mvc" options="-parameters" />
     </option>
   </component>
 </project>
